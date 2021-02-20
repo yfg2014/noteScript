@@ -8,6 +8,7 @@ body{
 	height: 22px ;
 	line-height: 38px;
 	margin: 20px ;
+	word-wrap:break-word;
 }   
 </style>
 `
