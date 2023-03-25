@@ -1,5 +1,6 @@
 var html =
 `
+<!DOCTYPE html>
 <script src="https://cdn.jsdelivr.net/npm/texme"><\/script> 
 <style>
 body{
